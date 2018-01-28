@@ -1,6 +1,6 @@
 ## Particle Filter Project
 
-<img src="Sim.jpg" width"320" alt="Combined Image" />
+<img src="Sim.jpg" width="320" alt="Combined Image" />
 
 Overview:
 ---
